@@ -1,0 +1,19 @@
+Fri, 21 Nov 2008 07:00:00
+
+This is a basic plugin for Web Host Manager, for checking an IPv4 address in RBL's, written whilst I was experimenting with WHM's API's and perl in general.
+
+I am releasing it as open source under the GPL in the hope that it might be useful to someone, perl is not my first language so please feel free to point out anything which you think needs improving (which I am almost certain bits of it will!)
+
+I intend to spend some solid time on improving this, but for now, the basic script!
+
+The plugin uses WHM's perl modules & the YUI library provided in all cPanel installations, its display is similar to that of most WHM functions.
+
+
+License
+
+This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
+
+This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License along with this program. If not, see http://www.gnu.org/licenses/
+
